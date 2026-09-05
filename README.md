@@ -1,36 +1,31 @@
-# Gurupasad S R
+# Guruprasad S R
+### Software Engineer | AI Systems Quality and Evaluation Engineering
 
-### Software Engineer | AI Engineer
-
-I build software systems, backend services, and AI-powered applications.
-
-My current engineering focus is **AI Quality Engineering**, with an emphasis on evaluating and improving the reliability of LLM-based and AI-agent systems.
+I build and validate quality systems for AI-powered products. My focus is testing, evaluating, and stabilizing LLM-based agents and AI workflows at the application layer, sole owner of quality validation for 4 production AI research agents.
 
 ## Engineering Focus
 
-- **Software Engineering:** Java, Python, backend systems, REST APIs
-- **AI Engineering:** LLM applications, AI workflows, AI evaluation
-- **AI Quality Engineering:** LLM evaluation, agent evaluation, automation, API testing
-- **Test Engineering:** Playwright, API automation, CI/CD
+- **AI Evaluation Engineering:** LLM validation, hallucination detection, behavior drift detection, gold-question evaluation, multi-agent workflow testing
+- **Test Automation:** Playwright, Cucumber BDD, RestAssured, API and UI test coverage
+- **AI Infrastructure:** Multi-agent architectures, self-healing test systems, data validation frameworks
+- **CI/CD and Observability:** Jenkins, GitHub Actions, ELK Stack
 
-## Selected Projects
+## Professional Work (Clarivate Analytics)
 
-### AI Engineering
+Quality validation owner for 4 production AI research agents across 14+ biweekly release cycles, including the platform's global launch. Built and led three internal initiatives:
 
-- **Message Notification Router** — AI-based message routing using Gemini, deterministic signals, escalation logic, evaluation, and validation.
+- AI Data Anomaly Detection System, validating data refresh at the API layer using gold-question sets run against stable and new environments
+- Playwright Multi-Agent Test System (Planner, Generator, Healer), cutting test authoring time from hours to minutes
+- GitHub Copilot Healer Utility, a standalone TypeScript tool for semantic locator healing with no MCP dependency
+
+These are internal Clarivate systems, not public repos.
+
+## Personal Projects
+
+### Applied AI
+- **Message Notification Router** — AI-based message routing using Gemini, with deterministic signals, escalation logic, and response evaluation.
 - **Multiple Disease Prediction** — Machine learning application for disease prediction.
 
 ### Software Engineering
-
-- **LMAS** — Java/Spring Boot application with REST, JPA, Cucumber, JUnit, JSON processing, and Docker support.
+- **LMAS** — Java and Spring Boot application with REST, JPA, Cucumber, JUnit, and Docker support.
 - **SmartBrain Backend** — Backend service for an AI-powered application.
-
-### Automation & Tooling
-
-- **Live Monitoring of Automation Scripts** — Automation monitoring project.
-
-## Current Direction
-
-**Software Engineering → AI Engineering → AI Quality Engineering**
-
-Focused on building reliable AI systems and the engineering infrastructure required to evaluate, test, and improve them.
