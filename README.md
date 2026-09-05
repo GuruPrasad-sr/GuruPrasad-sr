@@ -10,7 +10,7 @@ I build and validate quality systems for AI-powered products. My focus is testin
 - **AI Infrastructure:** Multi-agent architectures, self-healing test systems, data validation frameworks
 - **CI/CD and Observability:** Jenkins, GitHub Actions, ELK Stack
 
-## Professional Work (Clarivate Analytics)
+## Professional Work
 
 Quality validation owner for 4 production AI research agents across 14+ biweekly release cycles, including the platform's global launch. Built and led three internal initiatives:
 
